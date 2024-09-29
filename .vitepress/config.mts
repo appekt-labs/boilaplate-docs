@@ -9,7 +9,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Get started', link: '/getting-started' },
-      { text: "Buy Appekt Now!", target: "_blank", link: "/" }
+      { text: "Buy Boilaplate Now!", target: "_blank", link: "https://appekt-labs.lemonsqueezy.com/buy/cf34eff5-2997-4154-8c61-3356db0bcabd" }
 
     ],
 
