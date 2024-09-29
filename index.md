@@ -1,0 +1,33 @@
+---
+layout: home
+
+hero:
+  name: "Next.js Boilerplate Docs"
+  text: "Comprehensive Guide for Building SaaS Apps with Our Next.js Boilerplate"
+  tagline: "Effortless setup. Seamless scalability. Ready for production."
+  actions:
+    - theme: brand
+      text: Get Started
+      link: /getting-started
+    - theme: alt
+      text: Explore the Features
+      link: /features
+    - theme: alt
+      text: GitHub Repository
+      link: https://github.com/appekt-labs/boilaplate
+
+features:
+  - title: "Modern Tech Stack"
+    details: "Leverage the power of Next.js 14, TypeScript, MongoDB, and Tailwind CSS for building secure, scalable SaaS applications."
+  - title: "Authentication Built-in"
+    details: "NextAuth is pre-configured for seamless OAuth, email, and social media login authentication."
+  - title: "Performance Optimized"
+    details: "Incremental Static Regeneration (ISR) and server-side rendering (SSR) ensure blazing-fast load times and improved SEO."
+  - title: "Developer Friendly"
+    details: "A modular, component-based architecture with out-of-the-box support for customization, ensuring flexibility for your needs."
+  - title: "Ready for Production"
+    details: "Effortlessly deploy to Vercel or any cloud platform with minimal configuration required."
+  - title: "Comprehensive Documentation"
+    details: "Step-by-step guides, API references, and code examples to get you started quickly and efficiently."
+---
+
