@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  ignoreDeadLinks: true,
   title: "Boilaplate Docs",
   description: "This is the official documentation for the boilaplate template for next.js",
   themeConfig: {

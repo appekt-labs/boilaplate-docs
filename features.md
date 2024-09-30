@@ -1,5 +1,3 @@
----
-
 # Features of **BoilaPlate**
 
 Welcome to **BoilaPlate**, the ultimate starting point for your Next.js projects. This template includes all the essential features you need to build scalable, secure, and feature-rich web applications in no time. Below, we highlight the core features that make **BoilaPlate** stand out.
